@@ -1,4 +1,4 @@
-# AI-Tool-Landscape
+# AI Tool Landscape
 recent AI tools covering various dev areas.
 
 ## Orchestration, Prompt & Agent Dev
